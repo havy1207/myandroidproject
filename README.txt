@@ -1,1 +1,2 @@
 - Tuan 1: Random Number
+- Tuan 2: Calculator
