@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 // random
                 Random Rnumber = new Random();
-                int iNum = Rnumber.nextInt();
+                int iNum = Rnumber.nextInt(1000);
                 Text_number.setText(iNum + "");
             }
         });
