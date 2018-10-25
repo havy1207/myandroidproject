@@ -1,2 +1,2 @@
 - Tuan 1: Random Number
-- Tuan 2: Calculator
+- Tuan 2: Calculator Android 4.1.2 & API 16 
